@@ -1,5 +1,4 @@
 <resources>
 
     <string name="entry_siswa">Tambah Siswa</string>
-    </string>
-</resources>
+    <string name="back">back</string>
